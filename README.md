@@ -3,11 +3,13 @@
 This is work in progress.
 
 This repository contains a collection of documents related to the [HPC Best Practices Webinars Series](https://ideas-productivity.org/events/hpc-best-practices-webinars). 
-For each webinar in the series, the important dates in the checklist are:
+For each webinar in the series, the important items in the checklist are:
 
-- webinar date minus ~60 days: title + abstract + speaker bio
-- webinar date minus ~14 days: dry-run
-- webinar date minus   2 days: final version of slides
+1. webinar date minus ~60 days: title + abstract + speaker bio
+1. webinar date minus ~14 days: dry-run
+1. webinar date minus   2 days: final version of slides
+
+Checklist item 1 is accompanied by an e-mail that provides guidance to the webinar presenter(s).
 
 #### Key Repository Documents
 
