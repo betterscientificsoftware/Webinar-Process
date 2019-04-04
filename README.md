@@ -2,6 +2,8 @@
 
 This is work in progress.
 
+#### Goals
+
 This repository contains a collection of documents related to the [HPC Best Practices Webinars Series](https://ideas-productivity.org/events/hpc-best-practices-webinars). 
 For each webinar in the series, the important items in the checklist are:
 
