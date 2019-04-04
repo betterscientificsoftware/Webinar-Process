@@ -9,7 +9,7 @@ For each webinar in the series, the important items in the checklist are:
 1. webinar date minus ~14 days: dry-run
 1. webinar date minus   2 days: final version of slides
 
-Checklist item 1 is accompanied by an e-mail that provides guidance to the webinar presenter(s).
+Checklist item 1 is accompanied by an [e-mail that provides guidance](guidance.md) to the webinar presenter(s).
 
 #### Key Repository Documents
 
