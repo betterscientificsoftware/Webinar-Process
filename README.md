@@ -1,4 +1,4 @@
-# Webinars
+# HP Best Practice Webinars
 
 This is work in progress.
 
