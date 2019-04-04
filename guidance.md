@@ -26,7 +26,7 @@ We recommend the following:
 - Please ensure that all slides are numbered, as it helps with the Q&A. 
 - Build in brief breaks to ask if there are questions. We will receive questions through a google doc and the chat of the video conferencing service and relay those questions to you.
 
-The final version of your slides are due on ([month day] - 2 days) [day of the week], so we can send them to all registered participants on ([month day] - 1 day) [day of the week].
+The final version of your slides are due on ([month day] - 2 days) [day of the week], so we can send them (in pdf format) to all registered participants on ([month day] - 1 day) [day of the week].
 
 With best regards,
 
