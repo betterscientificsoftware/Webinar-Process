@@ -1,6 +1,6 @@
 **Purpose**: The following text (to be sent by e-mail) aims at providing guidance to speakers in HPC Best Practices Webinar Series.
 
-**Suggested e-mail subject**: preparations for [month day] webinar 
+**E-mail subject**: preparations for [month day] webinar 
 
 ***
 
@@ -29,5 +29,3 @@ We recommend the following:
 The final version of your slides are due on ([month day] - 2 days) [day of the week], so we can send them (in pdf format) to all registered participants on ([month day] - 1 day) [day of the week].
 
 With best regards,
-
-X
