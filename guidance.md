@@ -7,7 +7,7 @@
 Dear speaker(s),
 
 In preparation for your webinar in the HPC Best Practices series on [month day], please send us a title + abstract + 
-bio. When?
+bio(s) by [date of the e-mail + 7 days].
 
 As part of the preparations, we have set a doodle poll for a dry-run, [URL to doodle poll], and wou should have received 
 an email from doodle already. Once we decide on a date, we will send you an invitation for a video conference event 
