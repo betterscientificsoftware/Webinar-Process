@@ -9,13 +9,11 @@ related to the series' process.
 
 #### Chronology
 
-For each webinar, the important events are the following:
+Each webinar in the series is implemented in concert with a [checklist](checklist.md). The important events are the following:
 
-1. webinar date minus ~60 days: speaker provides title + abstract + bio
+1. webinar date minus ~60 days: speaker receives an [e-mail that provides guidance](guidance.md) about the process that will be followed for delivering the webinar 
 1. webinar date minus ~14 days: speaker participates in a dry-run
-1. webinar date minus   2 days: speaker provides final version of the presenation material
-
-These events proceed according to a [checklist](checklist.md). In particular, event 1 is accompanied by an [e-mail that provides guidance](guidance.md) to the speaker.
+1. webinar date minus   2 days: speaker provides the final version of the presentation material
 
 #### Key Repository Documents
 
