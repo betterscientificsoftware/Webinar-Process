@@ -1,4 +1,4 @@
-**Purpose**: The following text (to be sent by e-mail) aims at providing guidance to speakers in HPC Best Practices Webinar Series.
+**Purpose**: The following text (to be sent by e-mail) aims at providing guidance to speakers in HPC Best Practices Webinar Series. Text in [] means a placeholder.
 
 **E-mail subject**: preparations for [webinar date] webinar 
 
