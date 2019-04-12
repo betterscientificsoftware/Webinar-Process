@@ -27,6 +27,6 @@ We recommend the following:
 
 If you have not participated in one of the webinars in the HPC Best Practices, we encourage you to do so, to help you get a feeling about how things work. The next webinar will be on [preceding webinar date], [URL to preceding webinar], at the end of which we will announce your webinar and open registrations.
 
-The final version of your slides are due on ([webinar date] - 2 days), so we can send them to all registered participants on ([webinar date] - 1 day).
+The final version of your slides are due on [webinar date - 2 days], so we can send them to all registered participants on [webinar date - 1 day].
 
 Thank you for contributing to the HPC Best Practices Webinar series.
