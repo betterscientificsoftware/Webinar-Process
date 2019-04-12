@@ -4,7 +4,7 @@
 
 ***
 
-Dear speaker(s),
+Dear [speaker(s) name(s)],
 
 We would like to start the preparations for your webinar in the HPC Best Practices series, https://ideas-productivity.org/events/hpc-best-practices-webinars, on [webinar date].
 
