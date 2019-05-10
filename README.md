@@ -16,14 +16,14 @@ The webinars in the HPC-BP series occur approximately once a month and last abou
 IDEAS-ECP maintains a pool of potential topics, and project members deliberate on topics that are considered timely.
 Each webinar in the series is implemented in concert with a checklist. The important events are the following:
 
-1. webinar date minus ~60 days: speaker receives guidance about the process that will be followed for delivering the webinar
+1. webinar date minus ~60 days: presenter receives guidance about the process that will be followed for delivering the webinar
 1. webinar date minus ~40 days: webinar is made public
-1. webinar date minus ~14 days: speaker participates in a dry-run
-1. webinar date minus   2 days: speaker provides the final version of the presentation material
+1. webinar date minus ~14 days: presenter participates in a dry-run
+1. webinar date minus   2 days: presenter provides the final version of the presentation material
 
 #### Repository Documents
 
-- [Guidance](guidance.md)
-- [Checklist](checklist.md)
+- [Guidance](guidance.md) to presenter
+- [Checklist](checklist.md) for delivering a webinar
 - [Summary of our experiences](2019_JOCSE.pdf) organizing the webinar series presented at the [Fifth SC Workshop on
 Best Practices for HPC Training and Education (BPHTE18)](https://sighpceducation.acm.org/BPHTE18.html).
