@@ -27,7 +27,7 @@
 
 The following are the services used by the IDEAS-ECP Project to implement the above checklist:
 
-* Tracking tool: [Jira](https://www.atlassian.com/software/jira) (each webinar is a deliverable of [ECP](https://www.exascaleproject.org/event)
+* Tracking tool: [Jira](https://www.atlassian.com/software/jira) (each webinar is a deliverable of [ECP](https://www.exascaleproject.org/event))
 * Calendar polling: [Doodle](https://doodle.com/)
 * Registration management: [Eventbrite](https://www.eventbrite.com/)
 * Webinar pages: 
