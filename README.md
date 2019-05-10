@@ -23,7 +23,7 @@ Each webinar in the series is implemented in concert with a checklist. The impor
 
 #### Repository Documents
 
-- [Guidance](guidance.md) to presenter
-- [Checklist](checklist.md) for delivering a webinar
+- [Guidance](guidance.md) to presenter (the guidance is tailored to HPC-BP)
+- [Checklist](checklist.md) for delivering a webinar 
 - [Summary of our experiences](2019_JOCSE.pdf) organizing the webinar series presented at the [Fifth SC Workshop on
 Best Practices for HPC Training and Education (BPHTE18)](https://sighpceducation.acm.org/BPHTE18.html).
