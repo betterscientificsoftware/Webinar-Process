@@ -25,7 +25,8 @@ checklist. The important dates are the following:
 
 #### Repository Documents
 
-- [Guidance](guidance.md) to presenter
-- [Checklist](checklist.md) for delivering a webinar 
+- [Guidance](guidance.md)
+- [Checklist](checklist.md)
+- [Guidance](guidance.md)
 - [Summary of our experiences](2019_JOCSE.pdf) organizing the webinar series presented at the [Fifth SC Workshop on
 Best Practices for HPC Training and Education (BPHTE18)](https://sighpceducation.acm.org/BPHTE18.html).
