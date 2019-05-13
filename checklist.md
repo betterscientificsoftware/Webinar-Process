@@ -1,7 +1,7 @@
 **Generic Checklist**
 
 1. create issue using a tracking tool
-1. request title + abstract + bio from presenter (see [Guidance](Guidance.md))
+1. request title + abstract + bio from presenter (see example of [Guidance](guidance.md))
 1. create a calendar poll for selecting the dry-run date
 1. announce webinar in a (public) website
 1. enable registrations for the webinar using an event management tool
