@@ -25,7 +25,6 @@ checklist. The important dates are the following:
 
 #### Repository Documents
 
-- [Guidance](guidance.md)
 - [Checklist](checklist.md)
 - [Guidance](guidance.md)
 - [Summary of our experiences](2019_JOCSE.pdf) organizing the webinar series presented at the [Fifth SC Workshop on
