@@ -1,7 +1,7 @@
 **Generic Checklist**
 
 1. create issue using a tracking tool
-1. request title + abstract + bio from presenter(s)
+1. request title + abstract + bio from presenter (see [Guidance](Guidance.md))
 1. create a calendar poll for selecting the dry-run date
 1. announce webinar in a (public) website
 1. enable registrations for the webinar using an event management tool
@@ -9,7 +9,7 @@
 1. schedule online meeting for webinar
 1. create online survey
 1. create online document for Q&A
-1. receive final version of slides from presenter(s)
+1. receive final version of slides from presenter
 1. upload final version of slides into webinar website
 1. send link to online meeting, Q&A, survey and slides to registrants
 1. webinar
@@ -18,7 +18,7 @@
    * introduce presenter and start webinar
    * close webinar and, if applicable, announce next webinar
 1. download webinar recording
-1. coordinate curation of Q&A  with presenter(s)
+1. coordinate curation of Q&A  with presenter
 1. announce availability of Q&A and recording to registrants
 1. download statistics (number of registrants and participants)
 1. close issue
