@@ -18,10 +18,12 @@ IDEAS-ECP maintains a pool of potential topics, suggested by members of the proj
 and project members deliberate on topic timeliness. Each webinar in the series is implemented in concert with a 
 checklist. The important dates are the following:
 
-1. webinar date minus ~60 days: presenter receives guidance about the process that will be followed for delivering the webinar
-1. webinar date minus ~40 days: webinar is announced through a variety of channels.
-1. webinar date minus ~14 days: presenter participates in a dry-run
-1. webinar date minus   2 days: presenter provides the final version of the presentation material
+| countdown | action |
+| --- | --- |
+| webinar date minus ~60 days | presenter receives guidance about the process for delivering the webinar |
+| webinar date minus ~40 days | webinar is announced through a variety of channels |
+| webinar date minus ~14 days | presenter participates in a dry-run |
+| webinar date minus   2 days | presenter provides the final version of the presentation material |
 
 #### Repository Documents
 
