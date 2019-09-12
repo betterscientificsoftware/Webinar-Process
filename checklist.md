@@ -7,7 +7,7 @@
 1. enable registrations for the webinar using an event management tool
 1. schedule online meeting for dry-run
 1. schedule online meeting for webinar
-1. create online survey
+1. create online survey (for feedback purposes)
 1. create online document for Q&A
 1. receive final version of slides from presenter
 1. upload final version of slides into webinar website
@@ -34,6 +34,7 @@ The following are the services used by the IDEAS-ECP Project to implement the ab
   * [ECP](https://www.exascaleproject.org/event)
   * [IDEAS Productivity Project](https://ideas-productivity.org/events/hpc-best-practices-webinars)
 * Online meeting: [WebEx](https://www.webex.com)
+* Online survey: [SurveyMonkey](https://www.surveymonkey.com)
 * Q&A (participants can ask questions in real time)
   * Google Doc 
   * Chat feature in WebEx (the questions are copied and pasted in the Google doc)
