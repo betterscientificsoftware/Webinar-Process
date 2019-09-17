@@ -1,11 +1,13 @@
-# HPC Best Practice Webinars
+# How To Produce a Webinar Series
 
 The [HPC Best Practices (HPC-BP) Webinars Series](https://ideas-productivity.org/events/hpc-best-practices-webinars) 
 disseminates software development methodologies, tools and experiences to improve developer productivity and software 
 sustainability. HPC-BP is an outreach component of the [IDEAS Productivity Project](https://ideas-productivity.org) 
 and has been designed to support the IDEAS mission to work with scientific software development teams to enhance 
 their productivity and the sustainability of their codes. Currently, we refer to the project as IDEAS-ECP, as it 
-focuses primarily on the activities sponsored by DOE's [Exascale Computing Project (ECP)](https://www.exascaleproject.org).
+focuses primarily on the activities sponsored by DOE's [Exascale Computing Project (ECP)](https://www.exascaleproject.org). 
+Tthe IDEAS Productivity Project [archives the contents](https://ideas-productivity.org/events/hpc-best-practices-webinars) 
+of all webinars.
 
 This repository contains information and documents related to a process for delivering webinars. Our goal is to provide 
 general guidance. We provide a generic checklist that can be adapted to different types of organizations, and use
