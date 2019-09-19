@@ -32,4 +32,4 @@ checklist. The important dates are the following:
 - [Checklist](checklist.md)
 - [Guidance](guidance.md)
 - [Summary of our experiences](2019_JOCSE.pdf) organizing the webinar series presented at the [Fifth SC Workshop on
-Best Practices for HPC Training and Education (BPHTE18)](https://sighpceducation.acm.org/BPHTE18.html).
+Best Practices for HPC Training and Education (BPHTE18)](https://doi.org/10.22369/issn.2153-4136/10/1/19).
